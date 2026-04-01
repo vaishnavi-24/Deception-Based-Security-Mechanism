@@ -1,0 +1,74 @@
+[
+    {
+        "timestamp": "Tue Mar 31 18:22:28 2026",
+        "event_type": "LOGIN_ATTEMPT",
+        "description": "Login attempt with username=admin",
+        "suspicious": true
+    },
+    {
+        "timestamp": "Tue Mar 31 18:23:23 2026",
+        "event_type": "LOGIN_ATTEMPT",
+        "description": "Login attempt with username=admin",
+        "suspicious": true
+    },
+    {
+        "timestamp": "Tue Mar 31 18:23:36 2026",
+        "event_type": "LOGIN_ATTEMPT",
+        "description": "Login attempt with username=admin",
+        "suspicious": true
+    },
+    {
+        "timestamp": "Tue Mar 31 18:23:36 2026",
+        "event_type": "BRUTE_FORCE",
+        "description": "Multiple failed login attempts detected",
+        "suspicious": true
+    },
+    {
+        "timestamp": "Tue Mar 31 18:27:32 2026",
+        "event_type": "HONEYPOT_ACCESS",
+        "description": "Unauthorized access to hidden file detected",
+        "suspicious": true
+    },
+    {
+        "timestamp": "Tue Mar 31 18:28:11 2026",
+        "event_type": "NORMAL_ACTIVITY",
+        "description": "User performed normal operation",
+        "suspicious": false
+    },
+    {
+        "timestamp": "Tue Mar 31 18:39:54 2026",
+        "event_type": "LOGIN_ATTEMPT",
+        "description": "Login attempt with username=admin",
+        "suspicious": true
+    },
+    {
+        "timestamp": "Tue Mar 31 18:40:06 2026",
+        "event_type": "LOGIN_ATTEMPT",
+        "description": "Login attempt with username=user",
+        "suspicious": true
+    },
+    {
+        "timestamp": "Tue Mar 31 18:40:18 2026",
+        "event_type": "LOGIN_ATTEMPT",
+        "description": "Login attempt with username=max",
+        "suspicious": true
+    },
+    {
+        "timestamp": "Tue Mar 31 18:40:18 2026",
+        "event_type": "BRUTE_FORCE",
+        "description": "Multiple failed login attempts detected",
+        "suspicious": true
+    },
+    {
+        "timestamp": "Tue Mar 31 18:40:28 2026",
+        "event_type": "HONEYPOT_ACCESS",
+        "description": "Unauthorized access to hidden file detected",
+        "suspicious": true
+    },
+    {
+        "timestamp": "Tue Mar 31 18:40:37 2026",
+        "event_type": "NORMAL_ACTIVITY",
+        "description": "User performed normal operation",
+        "suspicious": false
+    }
+]
